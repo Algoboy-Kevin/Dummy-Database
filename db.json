@@ -1,7 +1,16 @@
-{
-  "@id" : 1,
-  "bond" : "SCRIPT-DAI LP",
-  "price" : "$31.05",
-  "discount" : "3.05%",
-  "duration" : "2 days"
-}
+[
+  {
+    "@id" : 1,
+    "bond" : "SCRIPT-DAI LP",
+    "price" : "$31.05",
+    "discount" : "3.05%",
+    "duration" : "2 days"
+  },
+  {
+    "@id" : 2,
+    "bond" : "DAI",
+    "price" : "$32.05",
+    "discount" : "1.05%",
+    "duration" : "2 days"
+  }
+]
